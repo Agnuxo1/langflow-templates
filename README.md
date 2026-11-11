@@ -1,3 +1,7 @@
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains reusable Langflow workflow templates from the <a href="https://github.com/Empreiteiro/langflow-templates">upstream project</a>, covering retrieval, document processing, automation and business use cases. Importable, modular examples can reduce repeated wiring of common agent and RAG patterns and make adaptation more approachable. Their practical value is a starting point for development; deployment readiness and resource use require validation with the selected models and data.</sub>
+<!-- impact-note:end -->
+
 ## About
 
 Langflow Templates is a curated collection of ready-to-use workflow templates for [Langflow](https://github.com/langflow-ai/langflow), the visual framework for building multi-agent and RAG applications. These templates demonstrate best practices for implementing AI-powered solutions across various industries and use cases.
